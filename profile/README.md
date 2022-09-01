@@ -17,3 +17,5 @@ Team Members:
 - NeverTheo [VD GP Board Service]
 - MaybeSys [VP GP Board Service, VD Developer Board]
 - Delta9 [VP GP Board Service]
+
+https://img.shields.io/github/followers/vdgithubmanagement?style=social
